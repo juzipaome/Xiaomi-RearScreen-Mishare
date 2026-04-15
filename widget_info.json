@@ -1,0 +1,8 @@
+{
+  "type": "widget",
+  "name": "Mishare背屏通知",
+  "business_setup": {
+    "id": "mishare",
+    "renameable": false
+  }
+}
